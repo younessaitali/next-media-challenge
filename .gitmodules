@@ -1,0 +1,6 @@
+[submodule "nextMediaChallengeBackEnd"]
+	path = nextMediaChallengeBackEnd
+	url = https://github.com/younessaitali/nextMediaChallengeBackEnd.git
+[submodule "next-media-front"]
+	path = next-media-front
+	url = https://github.com/younessaitali/next-media-front.git
